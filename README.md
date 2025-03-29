@@ -1,5 +1,3 @@
-<div id="top"></div>
-
 <!-- ABOUT THE PROJECT -->
 ## Decentralized Marketplace Dapp V2
 
