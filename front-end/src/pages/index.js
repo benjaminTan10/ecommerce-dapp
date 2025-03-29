@@ -1,0 +1,14 @@
+export { default as Home } from './Home';
+export { default as AuctionMarketPage } from './AuctionMarket/AuctionMarketPage';
+export { default as CreateAuction } from './AuctionMarket/CreateAuction';
+export { default as AuctionPage } from './AuctionMarket/AuctionPage';
+export { default as AddProduct } from './MainMarket/AddProduct';
+export { default as MarketPage } from './MainMarket/MarketPage';
+export { default as ProductPage } from './MainMarket/ProductPage';
+export { default as AddStoreProduct } from './Store/AddStoreProduct';
+export { default as MyStore } from './Store/MyStore';
+export { default as OrderPage } from './Store/OrderPage';
+export { default as AllStores } from './Store/AllStores';
+export { default as StoreProductPage } from './Store/StoreProductPage';
+export { default as StorePage } from './Store/StorePage';
+export { default as MyProductsPage } from './MyProductsPage';

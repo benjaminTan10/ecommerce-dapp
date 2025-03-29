@@ -1,0 +1,19 @@
+{
+  "5777": {
+    "Administration": [
+      "0xdCFd902Fd44565edCb6E781B34831EC05c7c6a31"
+    ],
+    "AuctionMarket": [
+      "0x28d4476D1214084988B7BB95ff43696E06826D55"
+    ],
+    "Market": [
+      "0x999b277DB46982f0a978eCd4ED5B40B36AaF5a33"
+    ],
+    "MockV3Aggregator": [
+      "0xCf86C62f162ec1e490a84482dDD7c983aEDFD159"
+    ],
+    "StoreFactory": [
+      "0x46bf6B4F769A4E2097F276AA3b8738AAb22a99e1"
+    ]
+  }
+}

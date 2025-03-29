@@ -1,0 +1,20 @@
+{
+  "contracts": {
+    "Administration": "e745ad1b5d900acc018e20bdd4d3e86459ea20f4",
+    "AuctionMarket": "bcaf195abb40ba232c14c21a36a8d655e0d0897b",
+    "Market": "f02d66ae0778e971bf76db82929118befe41f7db",
+    "MockV3Aggregator": "9e734e161b5cafcca52a917f10266f5a8bc05b28",
+    "Store": "8f08ae33db2d3ef2e305a8cb0ea2e36f3afd18ce",
+    "StoreFactory": "ed238b63ec494080df8cff29bb49aec3238e0659"
+  },
+  "tests": {
+    "tests/test_administration.py": {
+      "coverage": false,
+      "isolated": false,
+      "results": "...",
+      "sha1": "64111cdb5cc283702d49107d26794929080bbb99",
+      "txhash": []
+    }
+  },
+  "tx": {}
+}
